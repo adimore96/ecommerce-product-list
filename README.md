@@ -44,8 +44,8 @@ This is a simple e-commerce web application built with React and Bootstrap. It f
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
-   cd e-shop
+   git clone https://github.com/adimore96/ecommerce-product-list.git
+   cd ecommerce-product-list
    ```
 
 2. **Install Dependencies**
