@@ -2,6 +2,13 @@
 
 This is a simple e-commerce web application built with React and Bootstrap. It fetches product data from the [Fake Store API](https://fakestoreapi.com/) and provides features like product listing, detailed views, cart functionality, filtering, sorting, and more.
 
+## **Live Demo**
+
+Check out the live version of the application here:  
+[**E-Shop Live Demo**](https://qed42-e-shop.netlify.app/)
+
+---
+
 ## Features Implemented
 
 ### 1. **Product Listing**
